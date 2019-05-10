@@ -43,6 +43,9 @@ void bizerCurve(int n, float point[][2]) {
    glEnd();
 }
 
+// Main Display Function
+// Remove the commented blocks to see shapes/lines
+
 void display() {
 
     // --- Default Values ----
